@@ -94,6 +94,6 @@ While working on this project, I gained practical experience in:
 
 ## Author
 
-**Samarth Goyal**
+**Pradiksha Shree**
 
 If you found this project useful, feel free to give it a ⭐.
